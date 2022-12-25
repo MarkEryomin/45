@@ -27,6 +27,12 @@ switch (Var)
         Console.WriteLine("Второе число : "+num2);
         break;
 
+    case 3:
+    
+        string STR =Convert.ToString(number);
+        Console.WriteLine("Второе число : "+ STR[1]);
+        break;
+
 
 }
 
