@@ -19,4 +19,3 @@ int A = Convert.ToInt32(Console.ReadLine());
 int sum = Sum(A);
 Console.WriteLine(sum);
 
-// 
